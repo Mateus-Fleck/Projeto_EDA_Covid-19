@@ -1,4 +1,4 @@
-# Projeto EDA Covid-19
+# Projeto ML Covid-19
 
 Desenvolvimento de modelos de Machine Learning com Python para prever a evolução do Covid-19 no Brasil.
 
