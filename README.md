@@ -47,5 +47,5 @@ Este projeto está sob a [colocar a licença utilizada, por exemplo: Licença MI
 
 Para mais informações sobre o projeto, sinta-se à vontade para entrar em contato:
 
-- Nome: [seu nome]
-- E-mail: [seu e-mail]
+- Nome: Mateus Fleck
+- E-mail: fleck.datta.analytics@gmail.com
